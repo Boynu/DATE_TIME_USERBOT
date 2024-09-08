@@ -20,9 +20,9 @@ import os
 
 Date_Time_Userbot_teletips=Client(
     name = "date_time_userbot_teletips",
-    api_id = ("20579599"),
-    api_hash = ("1aa27b6f1b81976b64bab89784e52b21"),
-    session_string = ("AgE6BQ8AGoSbD2NO5N4WnzWSD99eNMLxJcs6ik6YvHeWcgWlPWPgQHmFYV86PT8YPpcC_1RfcI3WAXAnpIg5RTZ8kLrkBTLiLXxkpxaFjDC6XvRUcMFCxjVkHg00XxwtTYqy5cqUmwRG6AQ2P56_qemL25byqPQiYB_wppTCMU7zQ-fOKmkJkJrglv54aDU20qpiWDq-8rDB4UG5sQUqn3oeqOoFKcFq2-D--B03FLIrm-AJVe7_Hv06YP7AxjBhefbDpHHg-5Cn28GIkm9E9z16P7Tg_rKX5IM7OMlL9JgMLqCGIOXX7241VXiCW4wbvUtFcvnJ1aCJ2UcggO6CmnYYtJQOAAAAAAF8ttsGAA"),
+    api_id = ("25443109"),
+    api_hash = ("378d0a9008fb1ab042d028aeae1b3f7b"),
+    session_string = ("AgGEOyUAxmOl33LnNukIuju7eKni-N6LUcvc3VQpCsWvGaO86CgeDMrT7sbWsaoq1EH2djgN4GbGHGNdYpwdfrzs1KTruuLlwl2hWgU0uLIXtSQLpoy4Qu8gVePv-9li5IDTBE1v1ofnmPAGxd9d4UMFcuNXcKYKC3y1PIDa2bHJ5OfE-7GQuOg4Oy3BY1kFfFHrsW2hUhoJLSww-d8SHAvDacODChM6KNOxExakx3G5NNnq5IHGf1fYXnv2lLafauEjbCKa84yIUeEYBWjID8wqzWn2Q4mMtlF1uWXuJdxne9FVIqQdZqOVLvCgp2o-c4ZUnD1kAoml9ZMdoHA5hoXCZ2RPnwAAAAFd-m66AA"),
 )
 
 Time_Zone = "Asia/Baku"
